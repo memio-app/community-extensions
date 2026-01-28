@@ -8,7 +8,7 @@ This is a community extension library, with content submitted by third-party dev
 
 | Repository Name | Author | Description | Extension Summary JSON Link |
 | :--- | :--- | :--- | :--- |
-| [Common Extensions](https://github.com/cpacm/memio_extensions) | @cpacm | Collection of extensions for niche websites | [JSON Link](https://r2.memio.site/extensions.json) |
+| [Common Extensions](https://github.com/cpacm/memio_extensions) | [@cpacm](https://github.com/cpacm) | Collection of extensions for niche websites | [JSON Link](https://r2.memio.site/extensions.json) |
 
 ## Download App
 
