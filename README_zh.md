@@ -8,7 +8,7 @@
 
 | 仓库名称| 插件作者 | 说明 | 插件汇总 JSON 下载地址 |
 | :--- | :--- | :--- | :--- |
-| [常用的扩展](https://github.com/cpacm/memio_extensions) | @cpacm | 一些小众网站的扩展集合 | [JSON 下载链接](https://r2.memio.site/extensions.json) |
+| [常用的扩展](https://github.com/cpacm/memio-extensions) | @cpacm | 一些小众网站的扩展集合 | [JSON 下载链接](https://r2.memio.site/extensions.json) |
 
 ## 下载应用
 
